@@ -1,6 +1,6 @@
-package com.example.BankSystem.model;
+package com.example.corebankingservices.model;
 
-import com.example.BankSystem.transection.TransactionType;
+import com.example.corebankingservices.transection.TransactionType;
 import jakarta.persistence.*;
 
 import java.math.BigDecimal;

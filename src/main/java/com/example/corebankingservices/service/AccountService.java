@@ -1,11 +1,11 @@
-package com.example.BankSystem.service;
+package com.example.corebankingservices.service;
 
-import com.example.BankSystem.model.Account;
-import com.example.BankSystem.model.StatementDto;
-import com.example.BankSystem.model.Transaction;
-import com.example.BankSystem.repository.AccountRepository;
-import com.example.BankSystem.repository.TransactionRepository;
-import com.example.BankSystem.transection.TransactionType;
+import com.example.corebankingservices.model.Account;
+import com.example.corebankingservices.model.StatementDto;
+import com.example.corebankingservices.model.Transaction;
+import com.example.corebankingservices.repository.AccountRepository;
+import com.example.corebankingservices.repository.TransactionRepository;
+import com.example.corebankingservices.transection.TransactionType;
 
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.stereotype.Service;

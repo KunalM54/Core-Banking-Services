@@ -1,4 +1,4 @@
-package com.example.BankSystem.model;
+package com.example.corebankingservices.model;
 
 import java.math.BigDecimal;
 import java.time.format.DateTimeFormatter;

@@ -1,7 +1,7 @@
-package com.example.BankSystem.repository;
+package com.example.corebankingservices.repository;
 
-import com.example.BankSystem.model.Account;
-import com.example.BankSystem.model.Transaction;
+import com.example.corebankingservices.model.Account;
+import com.example.corebankingservices.model.Transaction;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

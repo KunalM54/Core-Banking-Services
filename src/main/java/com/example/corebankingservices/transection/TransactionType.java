@@ -1,4 +1,4 @@
-package com.example.BankSystem.transection;
+package com.example.corebankingservices.transection;
 
 public enum TransactionType {
     DEPOSIT,

@@ -1,8 +1,8 @@
-package com.example.BankSystem.controller;
+package com.example.corebankingservices.controller;
 
-import com.example.BankSystem.model.Account;
-import com.example.BankSystem.model.StatementDto;
-import com.example.BankSystem.service.AccountService;
+import com.example.corebankingservices.model.Account;
+import com.example.corebankingservices.model.StatementDto;
+import com.example.corebankingservices.service.AccountService;
 import org.springframework.web.bind.annotation.*;
 
 import java.math.BigDecimal;
